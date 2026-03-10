@@ -24,10 +24,10 @@ android {
 
     signingConfigs {
         create("release") {
-            storeFile = file("../store_assets/quran-sudais-release.jks")
-            storePassword = "SudaisQuran2024!"
-            keyAlias = "quran-sudais"
-            keyPassword = "SudaisQuran2024!"
+            storeFile = file("../store_assets/quran-alafasy-release.jks")
+            storePassword = "AlafasyQuran2024!"
+            keyAlias = "quran-alafasy"
+            keyPassword = "AlafasyQuran2024!"
         }
     }
 
