@@ -8,7 +8,7 @@ import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
 
-private const val BANNER_AD_UNIT_ID = "ca-app-pub-3419835514/REPLACE_WITH_ALAFASY_UNIT_ID"
+private const val BANNER_AD_UNIT_ID = "ca-app-pub-3572341533498507/1194198836"
 
 @Composable
 fun BannerAdView(modifier: Modifier = Modifier) {

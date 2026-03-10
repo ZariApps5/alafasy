@@ -20,7 +20,7 @@
         <!-- AdMob App ID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3419835514~REPLACE_WITH_ALAFASY_APP_ID" />
+            android:value="ca-app-pub-3572341533498507~3796311444" />
 
         <activity
             android:name=".MainActivity"
